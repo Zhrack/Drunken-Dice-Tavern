@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"D&D Campaign/World/Nations/Dwarven Kingdom/Locations/Dwarven Vaults/Vault of Trials 1.md","id":"581d57344ff66c3b","x":-1640,"y":-820,"width":896,"height":661},
+		{"type":"file","file":"D&D Campaign/World/Nations/Dwarven Kingdom/Locations/Dwarven Vaults/Event Crafter List Vault 1.md","id":"b7fd5202f1f3567f","x":-1480,"y":60,"width":736,"height":1020},
+		{"type":"text","text":"PP\nLocation: 3\nEncounters: 3\nObjects: 3","id":"421f3f0814d6fb1b","x":-1480,"y":-100,"width":736,"height":132},
+		{"type":"text","text":"# Rooms\nEntrance 1:\nExpected entrance with statues of the dwarves, empty for the rest. LANDMARK from Tome.\n\nRoom 2:\nExpected, None, Expected. A room with columns in the middle, showing the names of people that went through the Trials.\n\nRoom 3:\nExpected, Expected, Random (Object table: Resource, Extravagant / Confusing, Threatening).","id":"c4d0bcd35d6e38f4","x":-695,"y":480,"width":895,"height":668},
+		{"type":"file","file":"D&D Campaign/World/Nations/Dwarven Kingdom/Locations/Dwarven Vaults/Vault 1.excalidraw.md","id":"5152ea71a03921a6","x":-637,"y":-540,"width":780,"height":970},
+		{"id":"7db29d094afb9c4e","x":200,"y":-673,"width":416,"height":267,"type":"text","text":"Random Encounter table, 1d6:\nTODO\n\nAdd an ambush from [[Zhentarim]] agents, vendetta of [[Zhephaniah Guiffart]]"}
+	],
+	"edges":[]
+}

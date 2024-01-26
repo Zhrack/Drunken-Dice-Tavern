@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"D&D Campaign/Threads/The Surgeon (Tome Adv Design)/The Surgeon.md","id":"878bda1ddfc13bd7","x":-840,"y":-460,"width":960,"height":1400},
+		{"type":"text","text":"Area 2, inner sanctum","id":"592a8cae770155f9","x":483,"y":-105,"width":250,"height":60},
+		{"type":"text","text":"Area 1 Rough excavated through rock area.","id":"e2a41d9bf7d6f0b0","x":483,"y":200,"width":250,"height":60},
+		{"type":"text","text":"Teleportation entrance. Deactivates after use for 1 hour.","id":"c1af4a96f53e3e07","x":483,"y":620,"width":250,"height":120},
+		{"id":"f64441c784b22d5f","x":242,"y":-538,"width":738,"height":418,"type":"text","text":"TODO:\n- Define first contact with village and how they get to know about the Cistern.\n    - The Patron asking to retrieve the prisoner is an inhabitant that is terrorized and just asks to find her wife.\n- Make component based monster stat block for the Ice Golem. Is invulnerable until the room 8 is dealt with.\n    - Each arm has an attack component. One melee/ranged, the other targeted area attack (Ice wall?).\n    - Each leg gives movement and area attack around it.\n    - Main body has some health, if destroyed, exposes lifeblood heart component.\n    - Give CR 8 stats and legendary actions.\n- Define all rooms in detail\n- Make stats for bird-creatures (component based, have weapons and some durability stuff)\n- "}
+	],
+	"edges":[
+		{"id":"65b268ad66072428","fromNode":"e2a41d9bf7d6f0b0","fromSide":"top","toNode":"592a8cae770155f9","toSide":"bottom","toEnd":"none","label":"Long corridor with 4 side passages. 2 dead ends, 2 go to rooms. 20 ft wide and high. Cavern type. Dips through short underwater area, unnaturally cold water."},
+		{"id":"4df05e7c5003b6c1","fromNode":"e2a41d9bf7d6f0b0","fromSide":"bottom","toNode":"c1af4a96f53e3e07","toSide":"top","fromEnd":"arrow","label":"Long corridor with turns. 10ft wide and high. Same construction type as connected area. There are holes in walls"}
+	]
+}

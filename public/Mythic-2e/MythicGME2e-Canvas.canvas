@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a9f4dbd94fa5c993","type":"group","x":-2320,"y":-2320,"width":1986,"height":1990,"color":"2","label":"Mystery Matrix"},
+		{"type":"file","file":"Mythic 2e/Adv Crafter with Mythic 2e.md","id":"4a3157ccd0c11c60","x":-623,"y":378,"width":400,"height":1017},
+		{"type":"file","file":"Mythic 2e/Core/Altered Scene Adjustment Table.md","id":"bdc67de2b8ff6a09","x":-623,"y":-147,"width":400,"height":525},
+		{"id":"56ba9fc79552c1e2","type":"file","file":"Mythic 2e/Extra/Mystery Matrix/Mystery Elements Table.md","x":-1627,"y":-2300,"width":520,"height":437},
+		{"id":"9f3f6c02d3ed933b","type":"file","file":"Mythic 2e/Extra/Mystery Matrix/Mystery Matrix Flow.md","x":-2300,"y":-2300,"width":673,"height":757},
+		{"id":"caaf22f5e6818b5e","type":"file","file":"Mythic 2e/Extra/Fluid Scene/Fluid Scene Flow.md","x":-223,"y":-1880,"width":400,"height":760},
+		{"type":"file","file":"Mythic 2e/General Flow.md","id":"a8632e394086a7d8","x":-223,"y":-616,"width":710,"height":1567},
+		{"type":"file","file":"Mythic 2e/Core/Fate Check 2e.md","id":"fe3c5f3fdf0048fa","x":-223,"y":-1087,"width":569,"height":471},
+		{"type":"file","file":"Mythic 2e/Core/Random Event Focus Table.md","id":"231165fab8c96662","x":346,"y":-1376,"width":400,"height":760},
+		{"id":"44c7c17e66b6028d","type":"file","file":"Mythic 2e/Extra/Behavior Check/Mythic Simplified Behavior Check.md","x":487,"y":-616,"width":673,"height":1636},
+		{"id":"295476b66c48d96d","type":"file","file":"z_Attachments/Pasted image 20230102204431.png","x":-1627,"y":-1863,"width":1273,"height":803},
+		{"id":"e318fc041c5f197d","type":"file","file":"z_Attachments/Pasted image 20230102204503.png","x":-1627,"y":-1060,"width":1273,"height":730}
+	],
+	"edges":[]
+}

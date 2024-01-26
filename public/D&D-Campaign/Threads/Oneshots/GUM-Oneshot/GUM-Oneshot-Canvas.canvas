@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"23b08a5993a76ca7","type":"group","x":-20,"y":-140,"width":1270,"height":400,"color":"1","label":"Past"},
+		{"id":"ba14f958680d173d","type":"group","x":1320,"y":-170,"width":290,"height":460,"color":"2","label":"Now"},
+		{"id":"5d723f8a73f67275","type":"group","x":1680,"y":-170,"width":290,"height":460,"label":"Future"},
+		{"id":"ca724bd2577187fa","type":"file","file":"D&D Campaign/Threads/Oneshots/GUM Oneshot/GUM Oneshot.md","x":-1400,"y":-560,"width":1300,"height":1700},
+		{"id":"bbdd55afc07b574e","type":"text","text":"# Timeline - Main Events","x":720,"y":-440,"width":300,"height":120},
+		{"id":"f08d836f85cd1d07","type":"text","text":"- Academy is in crisis of productivity\n- Credibility of Academy is dwindling after a series of unsuccessful magical inventions\n- Brem discovers a ritual to control weather\n- Brem presents findings to Kasmin","x":0,"y":-120,"width":267,"height":360},
+		{"id":"b210f3333ea43740","type":"text","text":"- Brem discovers that controlling the weather causes issues with the natural balance of world.\n- Circle of Waving Grass is angry at interference, gives deadline to Brem","x":338,"y":-120,"width":250,"height":360},
+		{"id":"63d6a65a7d57b5d1","type":"text","text":"- Deadline passes, Circle attacks the Academy\n- Magic shield goes up, blocking intrusion for the moment\n- PCs arrived there for the night, just before the attack","x":980,"y":-120,"width":250,"height":360},
+		{"id":"a31bc565d963ce5d","type":"text","text":"- Brem hides ritual details after trying to convince Kasmin\n- Kasmin kills Brem trying to find the ritual, by staging murder by Circle of druids\n- Bram's Lab goes in lockdown, blocking Kasmin from retrieving the Ritual Book","x":659,"y":-120,"width":250,"height":360},
+		{"id":"666cdbe95e797eca","type":"text","text":"Elements to tackle:\n- Where is ritual book hidden?\n- Clues about discovery of weather ritual?\n- ","x":267,"y":368,"width":250,"height":232},
+		{"id":"bf8da8b964a741db","type":"text","text":"# Now","x":1340,"y":-150,"width":250,"height":60},
+		{"id":"37a5fe9fa9ec143e","type":"text","text":"- Siege is ongoing.\n- PCs are blocked inside.\n- Waiting for arrival of the King's army.\n- Magical Shield energy is almost out","x":1340,"y":-50,"width":250,"height":320},
+		{"id":"aec584bae7ba4cf1","type":"text","text":"# Future","x":1700,"y":-150,"width":250,"height":55},
+		{"id":"6255cadaab94da19","type":"text","text":"- Magic Shield fails, druids enter\n- King arrives during attack\n- Kasmin hides everything","x":1700,"y":-59,"width":250,"height":329},
+		{"id":"49ee618842608fda","x":588,"y":368,"width":315,"height":245,"type":"text","text":"# Things to do\n- Find the Ritual Book\n- Recharge the magic crystal outside\n- Investigate the murder"}
+	],
+	"edges":[
+		{"id":"075fcab17f18ba3e","fromNode":"f08d836f85cd1d07","fromSide":"right","toNode":"b210f3333ea43740","toSide":"left"},
+		{"id":"d702997ed24e5770","fromNode":"b210f3333ea43740","fromSide":"right","toNode":"a31bc565d963ce5d","toSide":"left"},
+		{"id":"52958149f7fd9e9b","fromNode":"a31bc565d963ce5d","fromSide":"right","toNode":"63d6a65a7d57b5d1","toSide":"left"},
+		{"id":"34b23dbcbc00687d","fromNode":"63d6a65a7d57b5d1","fromSide":"right","toNode":"ba14f958680d173d","toSide":"left"},
+		{"id":"ba6a956139bc1441","fromNode":"ba14f958680d173d","fromSide":"right","toNode":"5d723f8a73f67275","toSide":"left"}
+	]
+}

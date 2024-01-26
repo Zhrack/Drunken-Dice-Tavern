@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154249.png","id":"74ec3b00d81aa45c","x":-380,"y":-380,"width":470,"height":265},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154431.png","id":"a69acbb1e285a9a3","x":80,"y":0,"width":462,"height":151},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154447.png","id":"260014f2baf35ee2","x":80,"y":180,"width":465,"height":480},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154505.png","id":"352a2a173aef310e","x":-460,"y":339,"width":500,"height":809},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154537.png","id":"7115366659ecf220","x":-920,"y":-290,"width":507,"height":610},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154313.png","id":"678b7b42446e9722","x":120,"y":-340,"width":400,"height":245},
+		{"type":"file","file":"z_Attachments/Pasted image 20230614154325.png","id":"90842b356adddc88","x":-392,"y":-93,"width":457,"height":413},
+		{"type":"text","text":"Starting Items\n\n- Ingara’s Luck Ring, Item, 6 Uses, Turn a failed roll into a success\n- Herald’s Trumpet, Item, 2 Uses, Summon an Angel to fight on your side for 1D4 ROUND\n- ","id":"97cdb6227ff3ccc8","x":-940,"y":420,"width":400,"height":300},
+		{"type":"file","file":"ICRPG/Presentation.md","id":"813db7f33a1fc8fc","x":-1560,"y":-340,"width":620,"height":700},
+		{"type":"text","text":"Kendal\nDM\nZindlar\nTheo","id":"8fd699df17d7105a","x":-791,"y":744,"width":250,"height":156}
+	],
+	"edges":[]
+}

@@ -1,11 +1,24 @@
-.DS_Store
-.gitignore
-node_modules
-public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
+# Following kept for backup
+#.DS_Store
+#.gitignore
+#node_modules
+#public
+#prof
+#tsconfig.tsbuildinfo
+#.obsidian
+#.quartz-cache
+#private/
+#.replit
+#replit.nix
+#.trash
+#.stfolder
+#.stversions
+
+content/**
+!content/Solo Games/Assassin's Creed of Duskvol - BitD
+!content/Solo Games/Savage Worlds Fantasy Hexcrawl
+!content/Solo Games/Savage Worlds Fantasy Megadungeon
+!content/Solo Games/Traveller - Pirates of Drinax
+!content/z_Attachments
+!index.md
+*.pdf
