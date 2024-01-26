@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5cf6b6d3697a3143","x":-885,"y":-534,"width":696,"height":1020,"type":"file","file":"Solo Games/Solo Hexcrawl Campaign/Characters/Koldan Greathammer.md"},
+		{"id":"6d4a28874dc0d118","x":280,"y":-619,"width":717,"height":1129,"type":"file","file":"Solo Games/Solo Hexcrawl Campaign/Campaign Adventure Crafter Worksheet.md"},
+		{"id":"9964d567517a16b7","x":-885,"y":-1565,"width":840,"height":886,"type":"file","file":"Mythic 2e/General Flow.md"},
+		{"id":"eef934d6854b523f","x":80,"y":-1645,"width":494,"height":156,"type":"file","file":"Mythic 2e/Core/Meaning Tables/Action Meaning Table 2e.md"},
+		{"id":"89e49c5e54323324","x":80,"y":-1408,"width":494,"height":196,"type":"file","file":"Mythic 2e/Core/Meaning Tables/Descriptions Meaning Table 2e.md"}
+	],
+	"edges":[]
+}

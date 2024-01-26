@@ -1,19 +1,18 @@
 .DS_Store
 .gitignore
 node_modules
-#public
-#prof
 #tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
-#private/
-#.replit
-#replit.nix
 .trash
 **/.stfolder
 **/.stversions
 
 content/*
+
+# Only match directory here
+!content/Solo Games/
+
 !content/Solo Games/Assassin's Creed of Duskvol - BitD
 !content/Solo Games/Savage Worlds Fantasy Hexcrawl
 !content/Solo Games/Savage Worlds Fantasy Megadungeon

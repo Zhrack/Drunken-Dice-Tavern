@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0b7d0fb5cdb26f7d","type":"file","file":"Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Drukmor.md","x":-280,"y":-240,"width":405,"height":529},
+		{"id":"5cec1bee2ea01103","type":"file","file":"Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Gultag.md","x":125,"y":-240,"width":400,"height":529},
+		{"id":"a9e8bdcdd545561b","type":"file","file":"Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Savage Worlds Mythic Lists.md","x":-280,"y":320,"width":846,"height":760},
+		{"id":"44c3c948aab866b8","type":"file","file":"Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Setting Rules.md","x":-940,"y":0,"width":660,"height":920}
+	],
+	"edges":[]
+}

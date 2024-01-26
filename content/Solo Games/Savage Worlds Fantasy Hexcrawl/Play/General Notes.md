@@ -1,0 +1,36 @@
+Tools:
+- SWADE
+- SWADE Fantasy Companion
+- Mythic GME 2e
+    - Fluid Scenes
+    - Fate Check
+- Adventure Crafter
+- Location/Event Crafter
+- Mystery Matrix (in case of mystery)
+- Hexcrawl Toolkit
+- Spectacular Settlements
+- News Feeds
+- Let's talk
+- To try: Solipsism, PUM v7, FlexAI
+
+TODO:
+- [x] Make empty hexcrawl sheet on Excalidraw
+    - [ ] Run it as classic OSR.
+        - [x] Starting frontier town
+            - [x] Use Settlement book to generate a town
+            - [x] Define NPCs and Factions from Settlement Sheet
+        - [x] A nearby location to explore
+        - [ ] Might use RLC for locations
+- [x] Get Foundry world ready with Savage Worlds
+- [x] Use Hexcrawl Toolkit, do a quick rundown and choose what to use
+    - [x] List here pages
+    - [x] Focus on generating hexes on the fly
+    - [x] Use Worldographer to draw, save map in Obsidian to sync
+- [x] Make 2 PCs, fighter and mage
+- [ ] Add FlexAI after a few sessions to test. Full or Advanced. Also for Social encounters.
+- [ ] TODO
+    - [x] Define a starting scene, something in media res.
+        - [ ] Red Arcanists have stolen an airship and have fled to a watchtower out in the wilderness. PCs have been hired to go there and retrieve the airship, free approach.
+        - [ ] Use Let's Talk to do a conversation between PCs as a test, during travel.
+    - [x] Who are the PCs? Independent adventurers.
+    - [ ] 

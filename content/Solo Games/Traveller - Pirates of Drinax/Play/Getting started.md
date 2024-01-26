@@ -1,0 +1,30 @@
+TODO:
+- [x] Create 2-4 characters randomly
+	- [x] Finish Connections
+	- [x] taking last batch of skills for the group
+- [x] Prepare map of sector
+- [x] Prepare Harrier sheet
+- [ ] Prepare Trade excel for each planet encountered
+	- [x] A part from general info available in [[Trojan Reach Sector maps]], precalculate DMs for Sale and Purchase since they don't change
+	- [x] First couple of trades can be done manually to learn
+	- [x] Trade can be done as a secondary activity, focus on cooler stuff with trade to fill cargo space as needed
+	- [ ] To generate names of ships, use name generator
+		- [ ] Space colony/station https://www.fantasynamegenerators.com/space-colony-names.php
+		- [ ] Spaceship https://www.fantasynamegenerators.com/spaceship-names.php
+		- [ ] Space fleet https://www.fantasynamegenerators.com/space-fleet-names.php
+- [x] Keep rulebook open and make a DM reference sheet while playing
+- [ ] Pirates of Drinax
+	- [ ] to start, might do a small attack to test the rules
+	- [ ] From the Drinax Companion, list optional rules to use, so I can lookup them later when needed
+		- [x] probably the piracy rules are cool, to manage heat
+		- [ ] improvement rules of Harrier, page 59
+		- [ ] Run the First Prize mini adventure, page 90
+		- [ ] Many of the rules can be winged as needed, like "cleaning up" a stolen ship. Instead of all that mess, just roll 1D weeks to do it. A roll can speed up or slow down the work, but it's always a success.
+		- [ ] Assets & Factions, page 11
+		- [ ] Courting Assets, page 12
+		- [ ] 
+	- [ ] Objective:
+		- [ ] Try to win all system's favour by resolving & creating problems to be resolved as needed
+			- [ ] Need an [[Asset Networks]] to gain info and influence, make jobs in parallel
+		- [ ] Create safe bases around the place to lay low
+		- [ ] Try to make a small fleet for cargo runs etc... Harrier is very visible
