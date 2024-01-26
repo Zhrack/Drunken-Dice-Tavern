@@ -1,18 +1,17 @@
-# Following kept for backup
-#.DS_Store
-#.gitignore
-#node_modules
+.DS_Store
+.gitignore
+node_modules
 #public
 #prof
 #tsconfig.tsbuildinfo
-#.obsidian
-#.quartz-cache
+.obsidian
+.quartz-cache
 #private/
 #.replit
 #replit.nix
-#.trash
-#.stfolder
-#.stversions
+.trash
+**/.stfolder
+**/.stversions
 
 content/**
 !content/Solo Games/Assassin's Creed of Duskvol - BitD
