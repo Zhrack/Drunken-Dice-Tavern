@@ -10,8 +10,8 @@ node_modules
 
 content/*
 
-# Only match directory here
 !content/Solo Games/
+content/Solo Games/Private/**
 
 !content/Solo Games/Assassin's Creed of Duskvol - BitD
 !content/Solo Games/Savage Worlds Fantasy Hexcrawl
