@@ -1,4 +1,4 @@
-Map: [[Megadungeon General Map]]
+Map: [[Depths of Zhintaras General Map]]
 
 Playflow when entering a level/area:
 - Define [[Design a Dungeon#Dungeon Factions]], relationships and the status quo now

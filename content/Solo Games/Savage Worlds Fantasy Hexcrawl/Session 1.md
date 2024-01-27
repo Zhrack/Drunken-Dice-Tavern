@@ -22,7 +22,7 @@ For this campaign I'll use a few tools:
     - Let's Talk, for conversations.
 
 # World Building
-I created a town using Spectacular Settlements, called [[Hoverkirk]].
+I created a town using Spectacular Settlements, called [[Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Locations/Hoverkirk]].
 This town was born around a temple, which is airborne due to the magical anomaly that is protecting.
 This magical anomaly led to the discovery of a magical crystal, used by its inhabitants as a source of energy and to develop magitech items.
 This ushered an economic boom for this remote town, which was providing their services of airships powered by crystals, for trading all over the world.
