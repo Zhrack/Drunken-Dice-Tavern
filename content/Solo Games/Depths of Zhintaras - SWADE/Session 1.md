@@ -62,7 +62,9 @@ The duo continues until the door.
 > What are the two factions here? Sandbox Generator says: Wererats & Orcs.
 > Did we found Orcs? Weak yes
 > I will use this Reaction Table I found online (can't remember where!)
+> 
 > ![[2D Reaction Table.png]]
+> 
 > Result: Willing to talk.
 
 What are they searching for?
