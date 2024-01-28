@@ -55,10 +55,10 @@ The duo continues until the door.
 
 
 > [!NOTE] Checks
-> PUM location:
-> Is protected by some faction.
-> Looking for answers.
-> Reason: Noise/Sound
+> PUM location:  
+> Is protected by some faction.  
+> Looking for answers.  
+> Reason: Noise/Sound  
 > What are the two factions here? Sandbox Generator says: Wererats & Orcs.
 > Did we found Orcs? Weak yes
 > I will use this Reaction Table I found online (can't remember where!)
