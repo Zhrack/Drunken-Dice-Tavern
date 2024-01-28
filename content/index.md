@@ -31,12 +31,13 @@ Using Mongoose Traveller 2e and Mythic GME 2e.
 [[Solo Games/Traveller - Pirates of Drinax/Session 2|Session 2]]
 [[Solo Games/Traveller - Pirates of Drinax/Session 3|Session 3]]
 
-# Depths of Zhintaras (coming soon)
+# Depths of Zhintaras (ongoing)
 A fantasy dungeon delving campaign inside a randomly generated megadungeon using SWADE!
 
 ## Sessions
 [[Session 0]]
 [[Solo Games/Depths of Zhintaras - SWADE/Session 1|Session 1]]
+[[Solo Games/Depths of Zhintaras - SWADE/Session 2|Session 2]]
 
 # Fantasy Savage Worlds (stopped)
 A fantasy hexcrawl using Savage Worlds Adventure Edition and a mix of tools. Lots of experimentation :)

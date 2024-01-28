@@ -7,6 +7,7 @@ We start in front of the [[A6-1 News Feed| Hellish Burrow]] entrance.
 > I will generate 2 Major Events. One in the past, before the discovery. The other a recent one. This should inform the current status quo and dynamics.
 > 
 > I know we have 2 factions present.
+> 
 > **Past Major Event**: New Thread. Plot Twist meaning table: Rare Danger.
 > A rare monster has appeared in this level from the lower levels and has disrupted a zone and the status quo.
 > The new thread is "A rare monster has arrived".
@@ -37,10 +38,13 @@ The duo continues until the door.
 
 > [!NOTE] Checks
 > Is it trapped? Yes
+> 
 > Type of trap? 61. Pit trap.
 > 
 > Let's see if they see it. Notice check.
+> 
 > Drukmor: 11, 2. Success.
+> 
 > Gultag: 8, 2. Success.
 > 
 
