@@ -41,8 +41,7 @@ The duo continues until the door.
 > Gultag: 8, 2. Success. 
 
 > Both of them notice that just in front of the door, a pit is covered rudimentarily by a piece of wood and some foliage, looking quite out of place.
-> "Not many adventurers enter here every day, but it's unlikely this trap was here for long. Someone doesn't want outsiders" says Gultag.
-
+> "Not many adventurers enter here every day, but it's unlikely this trap was here for long. Someone doesn't want outsiders" says Gultag.  
 > They both go past the trap, slightly opening the door to peek inside.
 
 > [!NOTE] Checks
@@ -50,7 +49,7 @@ The duo continues until the door.
 > Is protected by some faction.  
 > Looking for answers.  
 > Reason: Noise/Sound  
-> What are the two factions here? Sandbox Generator says: Wererats & Orcs.
+> What are the two factions here? Sandbox Generator says: Wererats & Orcs.  
 > Did we found Orcs? Weak yes
 > I will use this Reaction Table I found online (can't remember where!)  
 > ![[2D Reaction Table.png]]  
@@ -60,6 +59,6 @@ What are they searching for?
 Why are the wererats rare?  
 Why is this place called Hellish Burrow?  
 
-Next Session!
+Next Session!  
 [[Solo Games/Depths of Zhintaras - SWADE/Session 2|Session 2]]
 
