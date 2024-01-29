@@ -3286,7 +3286,7 @@ var config = {
     analytics: {
       provider: "plausible"
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zhrack.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
