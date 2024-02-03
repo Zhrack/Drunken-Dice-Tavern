@@ -38,7 +38,8 @@ A fantasy dungeon delving campaign inside a randomly generated megadungeon using
 [[Session 0]]  
 [[Solo Games/Depths of Zhintaras - SWADE/Session 1|Session 1]]  
 [[Solo Games/Depths of Zhintaras - SWADE/Session 2|Session 2]]  
-[[Solo Games/Depths of Zhintaras - SWADE/Session 3|Session 3]]  
+[[Solo Games/Depths of Zhintaras - SWADE/Session 3|Session 3]]
+[[Solo Games/Depths of Zhintaras - SWADE/Session 4|Session 4]]
 
 # Fantasy Savage Worlds (stopped)
 A fantasy hexcrawl using Savage Worlds Adventure Edition and a mix of tools. Lots of experimentation :)
