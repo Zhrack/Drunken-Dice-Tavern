@@ -124,3 +124,4 @@ And added the [[Three Protectors]] to the plot nodes.
 ![[Pasted image 20240203001952.png]]
 
 See you in the next session!
+[[Solo Games/Depths of Zhintaras - SWADE/Session 5|Session 5]]

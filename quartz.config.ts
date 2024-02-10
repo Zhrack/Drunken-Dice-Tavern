@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "zhrack.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "Averia Serif Libre",
@@ -49,7 +49,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         // you can add 'git' here for last modified from Git
         // if you do rely on git for dates, ensure defaultDateType is 'modified'
-        priority: ["frontmatter", "filesystem"],
+        priority: ["git"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),

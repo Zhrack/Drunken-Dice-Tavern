@@ -13,3 +13,4 @@ Mushrooms growing in a corner.
 
 # 5
 Excavated room where a hive of [[Delkeheal]] is present. Useful to grab some healing honey.
+

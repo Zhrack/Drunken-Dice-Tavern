@@ -55,6 +55,8 @@ Has worked in dwarven cities and temples for years, but has now decided that it'
 Personality:
 Rough and humorous, especially towards other races, even if never disrespectful. Just tries to show that dwarves can be talkative and light hearted, contrary to popular belief, sometimes overdoing it.
 
+![[Drukmor.png]]
+
 Sheet
 ![[Pasted image 20240127001957.png]]
 
@@ -67,6 +69,8 @@ The nobleman, as revenge, proceeded to destroy the company's name and Gultag's n
 in the process.
 He started doing adventuring work and odd jobs to get by and capitalize on his
 martial training and experience. Zhintaras may be a place to find glory and clean his name?
+
+![[Gultag.png]]
 
 Personality:
 He is a pretty serious person usually, mostly seeing the bad angle of most things.
