@@ -62,8 +62,8 @@ Still I'll keep the zombies. Everyone likes zombies.
 > Is the fuel of Gultag all depleted? (Unlikely) Weak no. DD: 6.  
 >   
   
-> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor|Drukmor]], consuming its light and all the fuel (3 pints).  
-> After quickly checking [[Gultag|Gultag]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.  
+> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor.excalidraw|Drukmor.excalidraw]], consuming its light and all the fuel (3 pints).  
+> After quickly checking [[Gultag.excalidraw|Gultag.excalidraw]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.  
 >   
 > Gultag lights up the lantern and they quickly reach for the corridor, hoping to leave the blood rust behind.  
   
