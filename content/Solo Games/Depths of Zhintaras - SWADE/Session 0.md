@@ -27,7 +27,7 @@ My idea is to generate a town (or better, reuse the one I had created in a previ
   
 I generated the cross section with Sandbox Generator, here is the current situation.  
   
-![[Pasted image 20240126235824.png|Pasted image 20240126235824.png]]  
+![[../../z_Attachments/Pasted image 20240126235824.png|Pasted image 20240126235824.png]]  
   
 I rolled 6 on which entrance to start from, so only the entrance in Hellish Burrow is known, the others will be considered unknown and will need to be found.  
   
@@ -42,7 +42,7 @@ I wanted to try SWADE, so here we are.
 I also think that playing with OSR principles doesn't require a OSR old school game.  
 I will starting with the following Setting Rules:  
   
-![[Pasted image 20240127001509.png|Pasted image 20240127001509.png]]  
+![[../../z_Attachments/Pasted image 20240127001509.png|Pasted image 20240127001509.png]]  
   
 and I will adjust them as needed. I expect for the game to be less lethal than OSR games, but the lethality is what I like less about OSR, so I'm not missing anything. I'm aiming for a middle ground between OSR games like Old-School Essentials and Basic Fantasy RPG, and heroic games like D&D 5e.  
   
@@ -53,16 +53,16 @@ Here as well I will reuse both PCs I had in a previous campaign, the Dwarf Cleri
   
 ## Drukmor  
 Background:  
-A Healer, cleric of [[Tramadir|Tramadir]], dwarven god of healing and protection.  
+A Healer, cleric of [[./World/Religions/Tramadir|Tramadir]], dwarven god of healing and protection.  
 Has worked in dwarven cities and temples for years, but has now decided that it's time to act on the protection commandments of Tramadir, so he started adventuring into the world. His main drive is getting rid of abominations like undeads and recently many of them have been seen coming from Zhintaras.  
   
 Personality:  
 Rough and humorous, especially towards other races, even if never disrespectful. Just tries to show that dwarves can be talkative and light hearted, contrary to popular belief, sometimes overdoing it.  
   
-![[Drukmor.png|Drukmor.png]]  
+![[./_att/Drukmor.png|Drukmor.png]]  
   
 Sheet  
-![[Pasted image 20240127001957.png|Pasted image 20240127001957.png]]  
+![[../../z_Attachments/Pasted image 20240127001957.png|Pasted image 20240127001957.png]]  
   
 ## Gultag  
 Background:  
@@ -74,7 +74,7 @@ in the process.
 He started doing adventuring work and odd jobs to get by and capitalize on his  
 martial training and experience. Zhintaras may be a place to find glory and clean his name?  
   
-![[Gultag.png|Gultag.png]]  
+![[./_att/Gultag.png|Gultag.png]]  
   
 Personality:  
 He is a pretty serious person usually, mostly seeing the bad angle of most things.  
@@ -83,9 +83,9 @@ He leaves the talking to Drukmor usually, trying to avoid exposing himself and l
 reputation get in the way of his new job.  
   
 Sheet:  
-![[Pasted image 20240127002222.png|Pasted image 20240127002222.png]]  
+![[../../z_Attachments/Pasted image 20240127002222.png|Pasted image 20240127002222.png]]  
   
 ---  
 So, let's start!  
   
-To [[Solo Games/Depths of Zhintaras - SWADE/Session 1|Session 1]]
+To [[./Session 1|Session 1]]
