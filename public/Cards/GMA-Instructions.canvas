@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"type":"group","id":"514f130e54c6bb01","x":-340,"y":-360,"width":440,"height":679,"label":"Instructions"},
-		{"type":"file","file":"z_Attachments/Pasted image 20230804102004.png","id":"a26a39aeb8295c43","x":-320,"y":-21,"width":400,"height":320},
-		{"type":"file","file":"z_Attachments/Pasted image 20230804101948.png","id":"83611d70adccb5e0","x":-320,"y":-340,"width":400,"height":319}
-	],
-	"edges":[]
-}
