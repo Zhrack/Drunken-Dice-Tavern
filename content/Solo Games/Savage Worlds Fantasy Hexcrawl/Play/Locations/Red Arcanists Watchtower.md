@@ -2,7 +2,7 @@
 publish: "true"  
 ---  
 # Overview  
-An old watchtower, recently taken over by the [[Red Arcanists|Red Arcanists]].  
+An old watchtower, recently taken over by the [[../Factions/Red Arcanists|Red Arcanists]].  
   
 # Event Crafter sheet  
 Sheet __watchtower__  
