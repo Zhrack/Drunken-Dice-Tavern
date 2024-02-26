@@ -2,16 +2,16 @@
 publish: "true"  
 ---  
   
-Last session, I forgot to give more time to the interaction with the [[Three Protectors|Three Protectors]]. Next time, I will try to interact more, though the clock of encounter checks is ticking! Better hurry!  
+Last session, I forgot to give more time to the interaction with the [[../../../Three Protectors|Three Protectors]]. Next time, I will try to interact more, though the clock of encounter checks is ticking! Better hurry!  
   
 Now I also gave a face to both of the PCs! (AI art warning)  
 Here is Gultag:  
-![[Gultag.png|Gultag.png]]  
+![[./_att/Gultag.png|Gultag.png]]  
   
 and here is Drukmor:  
-![[Drukmor.png|Drukmor.png]]  
+![[./_att/Drukmor.png|Drukmor.png]]  
   
-Images have been added to the [[Session 0|Session 0]], where they were presented the first time too.  
+Images have been added to the [[./Session 0|Session 0]], where they were presented the first time too.  
   
 > After closing the door behind them, they hear arcane mutterings and after a few seconds, the door again animates, ready to assault any intruder.  
 > Gultag: "Might be a good idea to find a mage to accompany us next time, if they can do these fancy tricks..."  
@@ -20,7 +20,7 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
   
 > [!NOTE]-  
 > Current section they are in:  
-> ![[Pasted image 20240206232855.png|Pasted image 20240206232855.png]]  
+> ![[./_att/Pasted image 20240206232855.png|Pasted image 20240206232855.png]]  
 > Do they notice the hidden door? Notice Check.  
 > Drukmor: d6, d6. 4, 4. Success.  
 > Gultag: d6, d6. 5, 2. Success.  
@@ -72,9 +72,9 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
 > [!NOTE]-  
 > We are near the Orc Main Hall, it would make sense to encounter someone.  
 > Is there anyone in the corridor ahead? 50/50. Yes.  
-> Let's check the [[F1 Random Encounter Table|F1 Random Encounter Table]]. 1! Wererats.  
+> Let's check the [[../../../F1 Random Encounter Table|F1 Random Encounter Table]]. 1! Wererats.  
 > I guess they both see each other, as Gultag is carrying a lantern.  
-> ![[2D Reaction Table.png|2D Reaction Table.png]]  
+> ![[../../z_Attachments/2D Reaction Table.png|2D Reaction Table.png]]  
 > 8, 9. Wants to barter.  
 > What do they want to barter? GUM subject: Agreement, a contract, an alliance, arrangement, deal.  
 > Interesting.  
@@ -84,7 +84,7 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
 > When turning the corner, they see this group of wererats. Immediately recognizable by the small size, the rat-like appearance and the long tails. They are wearing some simple leather vestments, not exactly armour.  
 > They are checking around a spot on the wall on the left, seemingly the same as any other spot on the roots-infested walls.  
 > The rats get illuminated by the lantern light. Initially on alert, as if being found in an hostile territory, they slightly relax when they recognize outsiders, not orcs.  
-> ![[wererats.jpg|wererats.jpg]]  
+> ![[./_att/wererats.jpg|wererats.jpg]]  
 > One of them speaks up after a moment, wearing some old adventurer's clothes.  
 > "Ah, you startled us, tsk! Thought we were found by the orcs!  
 > Quick, you help us finding the hidden door, we share some treasure with you, tsk. Might even help you while you explore.   
@@ -117,7 +117,7 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
 >   
 > Is the area trapped? Likely. PUM: Weak yes.  
 > DD: 1! Random prompt: Handle a meaningful encounter.  
-> ![[Pasted image 20240209192738.png|Pasted image 20240209192738.png]]  
+> ![[./_att/Pasted image 20240209192738.png|Pasted image 20240209192738.png]]  
 > d20: 1! Adventurers!   
 >   
 > **Adventurers**  
@@ -150,42 +150,42 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
 > [!NOTE]-  
 > First fight! I'll do it in FoundryVTT.  
 > Here is the setup:  
-> ![[Pasted image 20240209232030.png|Pasted image 20240209232030.png]]  
+> ![[./_att/Pasted image 20240209232030.png|Pasted image 20240209232030.png]]  
 >   
 > I'll do group rolls for both groups, since otherwise it will be too long.  
 > I'll use the Bandit stat block for the adventurers and the Common Ratling for the wererats.  
 >   
 > #### **Round 1**  
 >   
-> ![[Pasted image 20240209232052.png|Pasted image 20240209232052.png]]  
+> ![[./_att/Pasted image 20240209232052.png|Pasted image 20240209232052.png]]  
 > - **Gultag** runs to the closest bandit and attacks, swinging and hitting only the air.  
 > - **Drukmor** moves into position where Gultag was, peeking from behind the column and casting a bolt of divine light towards the same adventurer that is fighting with Gultag, hitting them in the chest, shaking them.  
 > - **Wererats**: Three of them attack the other nearest adventurer, hitting them and killing them on the spot. The others move inside the room and take cover as they can.  
 > - **Adventurers**: The three remaining shoot their bows, missing all the wererats nearby in the chaos of the melee. The shaken one fails the roll.  
-> ![[Pasted image 20240210000527.png|Pasted image 20240210000527.png]]  
+> ![[./_att/Pasted image 20240210000527.png|Pasted image 20240210000527.png]]  
 >   
 > #### **Round 2  
 >   
-> ![[Pasted image 20240210000550.png|Pasted image 20240210000550.png]]  
+> ![[./_att/Pasted image 20240210000550.png|Pasted image 20240210000550.png]]  
 > - **Wererats**: Having killed one, the three wererats immediately focus on the archers, blocking their dangerous bows. They all claw each one of them, shaking them.  
 > - **Adventurers**: They all recover from being shaken. They try to respond to the attack with their swords, failing in hitting anyone.  
 >     - Here, a morale check would be in order. While FORGE has rules for this, the bestiary of SWADE doesn't have a morale value, so I guess I'll need to use the Fear rules for it.  
 >     - Fear check: Spirit roll as group roll. 17, 2. Fight on!  
-> - **Drukmor**: Drukmor decides to put some good ideas in the head of the adventurer near Gultag, using the staff. He manages to hit him, also thanks to the support of Gultag and another wererat, but the blow is amortized by the clothing, doing minimal damage. "Stop the attack, for [[Tramadir|Tramadir]]!"  
+> - **Drukmor**: Drukmor decides to put some good ideas in the head of the adventurer near Gultag, using the staff. He manages to hit him, also thanks to the support of Gultag and another wererat, but the blow is amortized by the clothing, doing minimal damage. "Stop the attack, for [[./World/Religions/Tramadir|Tramadir]]!"  
 > - **Gultag**: He doesn't care. Self-defense is self-defense. He attacks for 21, dealing increased damage! His axe plants itself in the adventurer's head. Gultag then pushes the stuck corpse with his boot, freeing the weapon.  
 >   
-> ![[Pasted image 20240210002827.png|Pasted image 20240210002827.png]]  
+> ![[./_att/Pasted image 20240210002827.png|Pasted image 20240210002827.png]]  
 >   
 > #### **Round 3  
 >   
-> ![[Pasted image 20240210002845.png|Pasted image 20240210002845.png]]  
+> ![[./_att/Pasted image 20240210002845.png|Pasted image 20240210002845.png]]  
 > - **Drukmor**: Drukmor sees the other wererats swarming the three remaining people, waiting for an opening (holding)  
 > - **Wererats**: They all try to attack, as needed, but the fight seem to keep longer.  
 > - **Adventurers**: Morale check: Success. They all attack the wererats near them, missing as well.  
 > - **Drukmor**: He decides to act, casting another bolt of light toward one of them. He manages to invoke the energy, casting a very concentrated one and doing 27 damage! The body of the adventurer disappears. "As long as you continue attacking unprompted like this, I'll continue defending us. Fear the lovingly hand when it's betrayed!"  
 > - **Gultag**: Gultag reaches the other, decapitating him with a swift swing.  
 >   
-> ![[Pasted image 20240210003940.png|Pasted image 20240210003940.png]]  
+> ![[./_att/Pasted image 20240210003940.png|Pasted image 20240210003940.png]]  
 >   
 > Fear check: Failed.  
 > The last adventurer drops his weapons and raising his hands.  
@@ -194,4 +194,4 @@ Images have been added to the [[Session 0|Session 0]], where they were presented
   
 Why did they attack? Where do they come from?  
 We'll know next session!  
-[[Solo Games/Depths of Zhintaras - SWADE/Session 6|Session 6]]  
+[[../../../Session 6|Session 6]]  
