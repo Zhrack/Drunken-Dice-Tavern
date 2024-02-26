@@ -9,7 +9,7 @@ Still I'll keep the zombies. Everyone likes zombies.
 > [!NOTE]-  
 > After generating the room, we have a 6x3 sq room, with a locked wooden door on the right.    
 > No monsters or anything. ("Empty", but I don't really like the word. It's never really empty).    
-> ![[Pasted image 20240128234634.png|Pasted image 20240128234634.png]]  
+> ![[./_att/Pasted image 20240128234634.png|Pasted image 20240128234634.png]]  
 >   
   
 > The room is devoid of life, minus some mushrooms covering a corner of the room.    
@@ -28,7 +28,7 @@ Still I'll keep the zombies. Everyone likes zombies.
 > [!NOTE]-  
 > This will require at least 10 minutes after also searching the room, so an encounter check will be done.  
 > But first, let's generate the next few rooms.  
-> ![[Pasted image 20240129232425.png|Pasted image 20240129232425.png]]  
+> ![[./_att/Pasted image 20240129232425.png|Pasted image 20240129232425.png]]  
 > Well, seems like I overdid it a bit and finished the available rooms for this level, 13 (I mistakenly counted the first corridor as well, won't fix it now). Which is also quite limiting given with what we know, there is supposed to be an entire section for the wererats.  
 > Since I like this dynamic in this level, I'll just double the rooms on this level to 26.  
 > Sandbox Generator seems to lack a way to let dungeon generations come to a natural conclusion, instead leaving a cut off when the room limit is reached. Not smooth, might need to change later.  
@@ -51,7 +51,7 @@ Still I'll keep the zombies. Everyone likes zombies.
 > Is the secret passage to E1 in this section? Weak yes. DD: 1! Random Prompt: Foreshadow an imminent problem. What problem? Weapons/Tools. This also triggers in my opinion a world element, "Hellish influences in F1"!  
 >   
 > Here is the current PUM plot node sheet for F1.  
-> ![[Pasted image 20240130000122.png|Pasted image 20240130000122.png]]  
+> ![[./_att/Pasted image 20240130000122.png|Pasted image 20240130000122.png]]  
 >   
 > So I think, the passage's here somewhere (secret doors or not), but the passage can be hard to find. For the random prompt, I have an idea.  
   
@@ -62,15 +62,15 @@ Still I'll keep the zombies. Everyone likes zombies.
 > Is the fuel of Gultag all depleted? (Unlikely) Weak no. DD: 6.  
 >   
   
-> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor.excalidraw|Drukmor.excalidraw]], consuming its light and all the fuel (3 pints).  
-> After quickly checking [[Gultag.excalidraw|Gultag.excalidraw]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.  
+> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor.svg|Drukmor.svg]], consuming its light and all the fuel (3 pints).  
+> After quickly checking [[Gultag.svg|Gultag.svg]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.  
 >   
 > Gultag lights up the lantern and they quickly reach for the corridor, hoping to leave the blood rust behind.  
   
 > [!NOTE]  
-> Does the [[Blood Rust|Blood Rust]] applies only on emitters of light? Weak no.  
+> Does the [[../../../Blood Rust|Blood Rust]] applies only on emitters of light? Weak no.  
 > Interesting.  
   
 Will our heroes manage to finish this expedition with some light?  
 Next session!  
-[[Solo Games/Depths of Zhintaras - SWADE/Session 4|Session 4]]
+[[./Session 4|Session 4]]
