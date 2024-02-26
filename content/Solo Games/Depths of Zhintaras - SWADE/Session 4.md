@@ -2,11 +2,11 @@
 publish: "true"  
 ---  
   
-In last session, we found that this area has [[Blood Rust|Blood Rust]], a force or entity that ruins equipment if left unchecked. We lost a lot of fuel and an entire lantern to this.  
+In last session, we found that this area has [[../../../Blood Rust|Blood Rust]], a force or entity that ruins equipment if left unchecked. We lost a lot of fuel and an entire lantern to this.  
 We still have various hours of light if needed, but who knows what might be damaged next.  
   
 These are the plot nodes at the moment:  
-![[Pasted image 20240130232030.png|Pasted image 20240130232030.png]]  
+![[./_att/Pasted image 20240130232030.png|Pasted image 20240130232030.png]]  
   
   
 > Once opening up, the duo sees a long corridor ahead of them. The light of the lantern doesn't shine enough, so the end is not visible.  
@@ -37,8 +37,8 @@ These are the plot nodes at the moment:
 > Focus: Key/Doors.  
 > What is the door doing? Activity: Having a fight or attacking. DD: 1. Random Prompt!  
 > Unfavorable prompt (roll twice and pick lowest), given the door attacking: Handle a meaningful encounter.  
-> ![[Pasted image 20240130235931.png|Pasted image 20240130235931.png]]  
-> Let's see: 10. [[Arcane Protectors|Arcane Protectors]]!  
+> ![[./_att/Pasted image 20240130235931.png|Pasted image 20240130235931.png]]  
+> Let's see: 10. [[./World/Factions/Arcane Protectors|Arcane Protectors]]!  
 > Perfectly aligned, the AP are magical researchers but have a religious relationship with the Sacred Crystal they study.  
 > How many are there? As expected. DD: 3. I think 3 would be a good amount. A knight protecting two mages.  
 > What are they doing? Looking for some answers. DD: 7   
@@ -64,7 +64,7 @@ These are the plot nodes at the moment:
 > While saying so, the three Protectors have behind them what seems like a giant beehive, grown covering a corner of the room.  
 > Around it, a swarm of small flying insects, with a red glowing body, is on high alert, to protect the beehive and the red honey-like substance that drips from it, causing a puddle on the ground.  
 >   
-> Noticing the curious look of the duo, the elf says: "These are [[Delkeheal|Delkeheal]], strange you don't know about them. We are trying to collect the red honey for [[Hoverkirk|Hoverkirk]], they have healing properties if consumed. Since you seem new arrivals, we can let you collect some for yourself, if you manage."  
+> Noticing the curious look of the duo, the elf says: "These are [[../../../Delkeheal|Delkeheal]], strange you don't know about them. We are trying to collect the red honey for [[../../../Hoverkirk|Hoverkirk]], they have healing properties if consumed. Since you seem new arrivals, we can let you collect some for yourself, if you manage."  
   
 > [!NOTE]-  
 > Do the others agree in giving free healing potions? Let's ask SUM.   
@@ -103,7 +103,7 @@ These are the plot nodes at the moment:
 > [!NOTE]-  
 > Two healing potions, one for each.  
 >   
-> Do the [[Three Protectors|Three Protectors]] congratulate? Strong yes  
+> Do the [[../../../Three Protectors|Three Protectors]] congratulate? Strong yes  
   
 > The trio starts to congratulate enthusiastically after both of them leave the hive with the two filled bottles. The knight claps his hands slowly, in sign of respect.  
 >   
@@ -120,12 +120,12 @@ These are the plot nodes at the moment:
 > Said that, the duo is greeted away without too many ceremonies, finding themselves outside the room and into the dark corridor again.  
 > A small moment of respite that flees rapidly.  
   
-It might be time to keep track of the rooms. Here is the Map key for F1: [[F1 Key|F1 Key]].  
+It might be time to keep track of the rooms. Here is the Map key for F1: [[../../../F1 Key|F1 Key]].  
 Current map:  
-![[Pasted image 20240203001932.png|Pasted image 20240203001932.png]]  
+![[./_att/Pasted image 20240203001932.png|Pasted image 20240203001932.png]]  
   
-And added the [[Three Protectors|Three Protectors]] to the plot nodes.  
-![[Pasted image 20240203001952.png|Pasted image 20240203001952.png]]  
+And added the [[../../../Three Protectors|Three Protectors]] to the plot nodes.  
+![[./_att/Pasted image 20240203001952.png|Pasted image 20240203001952.png]]  
   
 See you in the next session!  
-[[Solo Games/Depths of Zhintaras - SWADE/Session 5|Session 5]]
+[[./Session 5|Session 5]]
