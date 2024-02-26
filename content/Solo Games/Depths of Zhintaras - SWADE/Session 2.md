@@ -1,4 +1,8 @@
-[[Drukmor]] and [[Gultag]] have entered the first room in this megadungeon, immediately finding a group of Orcs searching for something.
+---
+publish: "true"
+---
+
+[[Drukmor.excalidraw]] and [[Gultag.excalidraw]] have entered the first room in this megadungeon, immediately finding a group of Orcs searching for something.
 > [!NOTE]- Checks
 > How many orcs? Handful. 3 Orcs  
 > Do they speak Common? No

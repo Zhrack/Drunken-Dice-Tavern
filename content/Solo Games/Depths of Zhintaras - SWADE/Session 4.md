@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 In last session, we found that this area has [[Blood Rust]], a force or entity that ruins equipment if left unchecked. We lost a lot of fuel and an entire lantern to this.
 We still have various hours of light if needed, but who knows what might be damaged next.
 

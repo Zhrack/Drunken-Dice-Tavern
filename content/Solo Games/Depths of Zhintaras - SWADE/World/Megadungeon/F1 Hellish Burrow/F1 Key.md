@@ -14,3 +14,8 @@ Mushrooms growing in a corner.
 # 5
 Excavated room where a hive of [[Delkeheal]] is present. Useful to grab some healing honey.
 
+# 7
+Orc armoury.
+
+# 8
+Secret room where the [[Orcs]] are searching for a hidden passage towards E1.

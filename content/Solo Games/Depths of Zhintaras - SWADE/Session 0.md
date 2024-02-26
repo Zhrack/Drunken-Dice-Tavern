@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 # What is Depths of Zhintaras?
 This is my attempt at playing a OSR-style megadungeon using Savage Worlds Adventure Edition.
 

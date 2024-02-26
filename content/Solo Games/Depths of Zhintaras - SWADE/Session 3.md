@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 So, during last session, I had two separate encounter checks. One for the noise made, one for the time.  
 Only issue is, I forgot one step, the actual encounter check! After rolling it, none of them came 1, so no actual encounters!  
 Still I'll keep the zombies. Everyone likes zombies.
@@ -58,8 +62,8 @@ Still I'll keep the zombies. Everyone likes zombies.
 > Is the fuel of Gultag all depleted? (Unlikely) Weak no. DD: 6.
 > 
 
-> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor]], consuming its light and all the fuel (3 pints).
-> After quickly checking [[Gultag]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.
+> After checking their lanterns, they discover how some kind of reddish rust has overgrown the lantern of [[Drukmor.excalidraw]], consuming its light and all the fuel (3 pints).
+> After quickly checking [[Gultag.excalidraw]]'s one, they discover a similar rust starting to grow, but they see the effects on the fuel as well, leaving them with roughly 2 pints from the 5 Gultag was carrying.
 > 
 > Gultag lights up the lantern and they quickly reach for the corridor, hoping to leave the blood rust behind.
 

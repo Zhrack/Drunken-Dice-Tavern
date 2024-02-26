@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 After defining the starting location where we are, we are in [[Solo Games/Depths of Zhintaras - SWADE/World/Outside Locations/Hoverkirk|Hoverkirk]].
 
 We start in front of the [[F1 News Feed| Hellish Burrow]] entrance.

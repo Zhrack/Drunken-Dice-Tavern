@@ -30,7 +30,7 @@ The flying temple where the magical anomaly is, is managed and protected by the 
 A separate faction within this group, called the [[Red Arcanists]], have taken a more religious view of the magical anomaly, starting an internal strife with the [[Arcane Protectors]].
 In recent history, this conflict has reached a point where the group has separated, leaving the town and, in the last few days, hijacking an airship for unknown reasons.
 
-Our party, composed of a joke-cracking Dwarf Cleric of [[Tramadir]] named [[Drukmor]] and the grim Human Soldier [[Gultag]], have accepted the mission from the Protectors to retrieve the airship. The only lead for now is the [[Red Arcanists Watchtower]], where the group has been seen.
+Our party, composed of a joke-cracking Dwarf Cleric of [[Tramadir]] named [[Drukmor.excalidraw]] and the grim Human Soldier [[Gultag.excalidraw]], have accepted the mission from the Protectors to retrieve the airship. The only lead for now is the [[Red Arcanists Watchtower]], where the group has been seen.
 
 # Session 1
 We start with the mission already taken, ready to leave Hoverkirk for the [[Red Arcanists Watchtower]].

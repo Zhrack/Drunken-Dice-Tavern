@@ -3,7 +3,7 @@ publish: "true"
 title: Home
 ---
 Hello! 
-I'm Davide and this is my space where I post my solo TTRPGs sessions, in case anyone is curious :)
+I'm Davide and this is my space where I post my solo TTRPGs sessions, in case anyone is curious :) *1*
 
 # Assassin's Creed of Duskvol (ongoing)
 A Blades in the Dark game in the canonical setting of Duskvol, but with a twist: my crew is a group of Assassins from the videogame Assassin's Creed, trying to eradicate Templar presence in Duskvol.
@@ -41,6 +41,7 @@ A fantasy dungeon delving campaign inside a randomly generated megadungeon using
 [[Solo Games/Depths of Zhintaras - SWADE/Session 3|Session 3]]
 [[Solo Games/Depths of Zhintaras - SWADE/Session 4|Session 4]]
 [[Solo Games/Depths of Zhintaras - SWADE/Session 5|Session 5]]
+[[Solo Games/Depths of Zhintaras - SWADE/Session 6|Session 6]]
 
 # Fantasy Savage Worlds (stopped)
 A fantasy hexcrawl using Savage Worlds Adventure Edition and a mix of tools. Lots of experimentation :)

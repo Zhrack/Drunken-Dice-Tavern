@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 Last session, I forgot to give more time to the interaction with the [[Three Protectors]]. Next time, I will try to interact more, though the clock of encounter checks is ticking! Better hurry!
 
 Now I also gave a face to both of the PCs! (AI art warning)
@@ -190,3 +194,4 @@ Images have been added to the [[Session 0]], where they were presented the first
 
 Why did they attack? Where do they come from?
 We'll know next session!
+[[Solo Games/Depths of Zhintaras - SWADE/Session 6|Session 6]]
