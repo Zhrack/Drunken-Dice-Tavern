@@ -12,7 +12,7 @@ For this campaign I'll use a few tools:
     - Fluid Scenes (from a Mythic Magazine, I'll play without the discrete scene structure. Instead a Scene Question will be asked at turning points, to see if the Chaos Factor changes)  
     - News Feeds to generate events in the locations that I'll find  
     - Mystery Matrix, in case of mystery to investigate  
-- Hexcrawl Toolkit for the hexcrawl procedure (only the required rules, to keep things simple.) Can be found at [[Hexcrawl Resources|Hexcrawl Resources]].  
+- Hexcrawl Toolkit for the hexcrawl procedure (only the required rules, to keep things simple.) Can be found at [[../../../Hexcrawl Resources|Hexcrawl Resources]].  
 - Spectacular Settlements, to generate important settlements.  
 - Location and Event Crafter  
 - Stretch goals, if I have the occasion/inclination to do so:  
@@ -22,18 +22,18 @@ For this campaign I'll use a few tools:
     - Let's Talk, for conversations.  
   
 # World Building  
-I created a town using Spectacular Settlements, called [[Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Locations/Hoverkirk sheet|Solo Games/Savage Worlds Fantasy Hexcrawl/Play/Locations/Hoverkirk sheet]].  
+I created a town using Spectacular Settlements, called [[./Play/Locations/Hoverkirk sheet|Hoverkirk sheet]].  
 This town was born around a temple, which is airborne due to the magical anomaly that is protecting.  
 This magical anomaly led to the discovery of a magical crystal, used by its inhabitants as a source of energy and to develop magitech items.  
 This ushered an economic boom for this remote town, which was providing their services of airships powered by crystals, for trading all over the world.  
-The flying temple where the magical anomaly is, is managed and protected by the [[Arcane Protectors|Arcane Protectors]].  
-A separate faction within this group, called the [[Red Arcanists|Red Arcanists]], have taken a more religious view of the magical anomaly, starting an internal strife with the [[Arcane Protectors|Arcane Protectors]].  
+The flying temple where the magical anomaly is, is managed and protected by the [[../Depths of Zhintaras - SWADE/World/Factions/Arcane Protectors|Arcane Protectors]].  
+A separate faction within this group, called the [[./Play/Factions/Red Arcanists|Red Arcanists]], have taken a more religious view of the magical anomaly, starting an internal strife with the [[../Depths of Zhintaras - SWADE/World/Factions/Arcane Protectors|Arcane Protectors]].  
 In recent history, this conflict has reached a point where the group has separated, leaving the town and, in the last few days, hijacking an airship for unknown reasons.  
   
-Our party, composed of a joke-cracking Dwarf Cleric of [[Tramadir|Tramadir]] named [[Drukmor.excalidraw|Drukmor.excalidraw]] and the grim Human Soldier [[Gultag.excalidraw|Gultag.excalidraw]], have accepted the mission from the Protectors to retrieve the airship. The only lead for now is the [[Red Arcanists Watchtower|Red Arcanists Watchtower]], where the group has been seen.  
+Our party, composed of a joke-cracking Dwarf Cleric of [[../Depths of Zhintaras - SWADE/World/Religions/Tramadir|Tramadir]] named [[Drukmor.svg|Drukmor.svg]] and the grim Human Soldier [[Gultag.svg|Gultag.svg]], have accepted the mission from the Protectors to retrieve the airship. The only lead for now is the [[./Play/Locations/Red Arcanists Watchtower|Red Arcanists Watchtower]], where the group has been seen.  
   
 # Session 1  
-We start with the mission already taken, ready to leave Hoverkirk for the [[Red Arcanists Watchtower|Red Arcanists Watchtower]].  
+We start with the mission already taken, ready to leave Hoverkirk for the [[./Play/Locations/Red Arcanists Watchtower|Red Arcanists Watchtower]].  
   
 > [!Hexcrawl] Hexcrawl  
 > Starting with 6 APs.   
@@ -44,7 +44,7 @@ We start with the mission already taken, ready to leave Hoverkirk for the [[Red 
 > I guess we found the Watchtower!  
   
 Here is our current map.  
-![[Pasted image 20240122233649.png|Pasted image 20240122233649.png]]  
+![[../../z_Attachments/Pasted image 20240122233649.png|Pasted image 20240122233649.png]]  
   
 > [!SWADE] SWADE  
 > What do we see?  
@@ -75,7 +75,7 @@ Here is our current map.
 > [!Solipsism] Solipsism  
 > Let's use Solipsism to explore this location.  
 > I fill up this Map. Should be faster than setting up LC or anything else.  
-> ![[Pasted image 20231214232231.png|Pasted image 20231214232231.png]]  
+> ![[../../z_Attachments/Pasted image 20231214232231.png|Pasted image 20231214232231.png]]  
 > We start from 1002 after rolling a d4.  
 > Go to 7197. Location A, -2 (everything easier 2 steps during this scene), hallucination mood word, Path 7588 with +2 modifier.  
   
@@ -137,7 +137,7 @@ Here is our current map.
   
 > [!Solipsism] Solipsism  
 > Path 7588 goes to 8091.  
-> ![[Pasted image 20231221231347.png|Pasted image 20231221231347.png]]  
+> ![[../../z_Attachments/Pasted image 20231221231347.png|Pasted image 20231221231347.png]]  
 > Final modifier: +1  
 > B is Tower Ground Floor, with an Ethereal theme.  
 > Object 1 is "Clue about airship". Lucky! With a positive theme as well. Final modifier regarding the clue is 0.  
@@ -195,7 +195,7 @@ It's also time for a Scene Question.
 > Outgoing Path: 4141 at -1.  
 > Go To: 4875  
 >   
-> ![[Pasted image 20231224001339.png|Pasted image 20231224001339.png]]  
+> ![[../../z_Attachments/Pasted image 20231224001339.png|Pasted image 20231224001339.png]]  
 > Location C is First Floor with surveillance theme. No modified difficulty.  
 > Danger 1 is Red Arcanists guards with optics flavor. Characters harder by 1 step.  
   
@@ -204,7 +204,7 @@ It's also time for a Scene Question.
 > Location by content: Darkness, invisible, hard to see, fuzzy, nothing  
 > Character by possession: Rich, wealthy, fancy clothes, ornaments, rings  
   
-> The floor is kept in the dark, with most of the light coming from what can be described as irregular pieces of glass floating in mid air and as big as a person. On each side of each piece of glass, moving images of other locations can be seen. The duo recognizes the locations showed as different parts of Hoverkirk, but also other locations, together with the [[The Drinking Fire|The Drinking Fire]] trading post, this very tower and other kingdoms.  
+> The floor is kept in the dark, with most of the light coming from what can be described as irregular pieces of glass floating in mid air and as big as a person. On each side of each piece of glass, moving images of other locations can be seen. The duo recognizes the locations showed as different parts of Hoverkirk, but also other locations, together with the [[./Play/Locations/The Drinking Fire|The Drinking Fire]] trading post, this very tower and other kingdoms.  
 > Seems like the RA is monitoring places by unknown, probably magical, means, but no one seems to notice  being observed.  
   
 FQ:"Do the RA present here ambush them?" Very Likely given the ongoing attack they are aware of. 1, 2. 5 total. No, almost exceptional.  
@@ -251,4 +251,4 @@ Ok... this is confusing. Do the PCs notice them in the darkness at least?
 > [!PUM] PUM  
 > Why the theft of the airship? Obtain object you get/have. In line with trading results of before.   
   
-To [[Solo Games/Savage Worlds Fantasy Hexcrawl/Session 2|Session 2]].
+To [[../../../Session 2|Session 2]].
