@@ -293,12 +293,12 @@ which started a town in this inhospitable tundra. ^62Kw0KwR
   
   
 # Embedded files  
-04d4489d27c199eae84df1ddbcc3a9b8baf9398c: [[Towns_Sheet_Fillable.pdf#page=1|Towns_Sheet_Fillable.pdf > page=1]]  
-3f46618003a8c280a6b5d6c71bb9bb7ce37e93ef: [[Towns_Sheet_Fillable.pdf#page=2|Towns_Sheet_Fillable.pdf > page=2]]  
-dc1da33e60f85beca43aa814bad9061a0eebc981: [[Towns_Sheet_Fillable.pdf#page=3|Towns_Sheet_Fillable.pdf > page=3]]  
-b978b8c9aecca4925326f180f3cd6477cdcde33b: [[Fortresses_Sheet_Fillable.pdf#page=1|Fortresses_Sheet_Fillable.pdf > page=1]]  
-5640964c3f96684f04e2e5681e3dfe2093c5beb9: [[Fortresses_Sheet_Fillable.pdf#page=2|Fortresses_Sheet_Fillable.pdf > page=2]]  
-4c1f90978a331ce24fcff4b5edb9a619f14c64d1: [[Fortresses_Sheet_Fillable.pdf#page=5|Fortresses_Sheet_Fillable.pdf > page=5]]  
+04d4489d27c199eae84df1ddbcc3a9b8baf9398c: [[../../../../Toolbox/Spectacular Settlements Forms/Towns_Sheet_Fillable.pdf#page=1|Towns_Sheet_Fillable.pdf > page=1]]  
+3f46618003a8c280a6b5d6c71bb9bb7ce37e93ef: [[../../../../Toolbox/Spectacular Settlements Forms/Towns_Sheet_Fillable.pdf#page=2|Towns_Sheet_Fillable.pdf > page=2]]  
+dc1da33e60f85beca43aa814bad9061a0eebc981: [[../../../../Toolbox/Spectacular Settlements Forms/Towns_Sheet_Fillable.pdf#page=3|Towns_Sheet_Fillable.pdf > page=3]]  
+b978b8c9aecca4925326f180f3cd6477cdcde33b: [[../../../../Toolbox/Spectacular Settlements Forms/Fortresses_Sheet_Fillable.pdf#page=1|Fortresses_Sheet_Fillable.pdf > page=1]]  
+5640964c3f96684f04e2e5681e3dfe2093c5beb9: [[../../../../Toolbox/Spectacular Settlements Forms/Fortresses_Sheet_Fillable.pdf#page=2|Fortresses_Sheet_Fillable.pdf > page=2]]  
+4c1f90978a331ce24fcff4b5edb9a619f14c64d1: [[../../../../Toolbox/Spectacular Settlements Forms/Fortresses_Sheet_Fillable.pdf#page=5|Fortresses_Sheet_Fillable.pdf > page=5]]  
   
 %%  
 # Drawing  
