@@ -2,7 +2,7 @@
 publish: "true"  
 ---  
   
-[[Drukmor.excalidraw|Drukmor.excalidraw]] and [[Gultag.excalidraw|Gultag.excalidraw]] have entered the first room in this megadungeon, immediately finding a group of Orcs searching for something.  
+[[Drukmor.svg|Drukmor.svg]] and [[Gultag.svg|Gultag.svg]] have entered the first room in this megadungeon, immediately finding a group of Orcs searching for something.  
 > [!NOTE]- Checks  
 > How many orcs? Handful. 3 Orcs    
 > Do they speak Common? No  
@@ -17,7 +17,7 @@ Wait... How many doors are here?
 > Sandbox Generator:    
 > 3 other doors.    
 > 2 are stuck, the other is a locked metal door. According to SG, a locked metal door can be opened only by a thief or by a key. We have neither, ofc!    
-> ![[Pasted image 20240128002646.png|Pasted image 20240128002646.png]]  
+> ![[../../z_Attachments/Pasted image 20240128002646.png|Pasted image 20240128002646.png]]  
 > Were the orcs investigating a door? Yes    
 > I would say, they are trying to open the metal door.    
 > Since the other two doors are stuck, they couldn't come from there. They were thrown out of the metal door, before being closed and are trying to open it.  
@@ -38,7 +38,7 @@ This noise will trigger an encounter check, together with another one for the ti
   
 > [!NOTE]-  
 > This is the one I'll use:    
-> ![[Pasted image 20240128104657.png|Pasted image 20240128104657.png]]    
+> ![[../../z_Attachments/Pasted image 20240128104657.png|Pasted image 20240128104657.png]]    
 > It's staggered in terms of probability to have a dominant faction. The empty ones will be filled up when encountering them, choosing external creatures.    
 > Rolled:  
 > 3. Wererats.    
@@ -51,4 +51,4 @@ We are encountering some Wererats and some Undeads.
 Time to generate what's on the other side and what's inside! A fourth creature type maybe? :D  
   
 Quick session today!    
-[[Solo Games/Depths of Zhintaras - SWADE/Session 3|Session 3]]
+[[./Session 3|Session 3]]

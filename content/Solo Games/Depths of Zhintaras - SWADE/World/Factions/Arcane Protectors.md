@@ -29,4 +29,4 @@ Magical researchers.
   
   
 ---  
-Rules: [[Coterie Faction System|Coterie Faction System]]
+Rules: [[../../../../../Coterie Faction System|Coterie Faction System]]
