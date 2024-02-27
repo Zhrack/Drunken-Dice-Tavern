@@ -4,7 +4,6 @@ Last session, we had our first fight with a group of adventurers, who were for s
 I also did some clean up of some things I forgot in the PUM plot nodes, adding "Renegade Orcs" that we encountered at the beginning to the Meaningful Encounters list.
 Also I added the "Passage to E1", that we are supposed to find somewhere on this level in F1, in the "Things to be found" list.
 Time to also reset bennies! I think my sessions are a lot shorter than a group play, so I might need to houserule how they are given next time.
-
 Now, back to our last adventurer.
 
 > [!NOTE]
