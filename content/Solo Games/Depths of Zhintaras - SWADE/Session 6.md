@@ -131,5 +131,8 @@ Now, back to our last adventurer.
 Next session, we'll decide what to do.
 Continue to Level E1 and continue supporting the Wererats?
 Parting ways and continue the exploration of F1?
+Return to [[Hoverkirk]] and start carousing until the next expedition?
+
+So much choice!
 
 [[Solo Games/Depths of Zhintaras - SWADE/Session 7|Session 7]]
