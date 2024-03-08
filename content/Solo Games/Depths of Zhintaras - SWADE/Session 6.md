@@ -121,7 +121,7 @@ Now, back to our last adventurer.
 > After starting the search, both inspect the room to the best of their capability.
 > Drukmor focuses of the old inscriptions on the wooden pillars, while Gultag tries to find some moving piece in the room.
 > After examining the details, Drukmor sees that the old faded writing present on some of the pillars, while of unknown language, has enough simple drawings to understand that a feat of strength is needed to discover the passage.
-> After explaining it to Gultag, he moves up all the pillars, which snap into a hidden socket for a few centimetres. Then rotates them all, until a hidden door is unveiled thanks to a mechanical noise and levers that open  the door with stone-grinding noise.
+> After explaining it to Gultag, he moves up all the pillars, which snap into a hidden socket for a few centimetres. Then rotates them all, until a hidden door is unveiled thanks to a mechanical noise and levers that opens  the door with stone-grinding noise.
 
 > [!NOTE]-
 > This is going to be our secret passage to Level E1!

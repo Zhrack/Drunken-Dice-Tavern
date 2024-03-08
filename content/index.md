@@ -3,7 +3,7 @@ publish: "true"
 title: Home
 ---
 Hello! 
-I'm Davide and this is my space where I post my solo TTRPGs sessions, in case anyone is curious :) *1*
+I'm Davide and this is my space where I post my solo TTRPGs sessions, in case anyone is curious :)
 
 # Assassin's Creed of Duskvol (ongoing)
 A Blades in the Dark game in the canonical setting of Duskvol, but with a twist: my crew is a group of Assassins from the videogame Assassin's Creed, trying to eradicate Templar presence in Duskvol.

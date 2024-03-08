@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "The Drunken Dice Tavern",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'goatcounter', websiteId: 'zhrack' },
     baseUrl: "zhrack.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

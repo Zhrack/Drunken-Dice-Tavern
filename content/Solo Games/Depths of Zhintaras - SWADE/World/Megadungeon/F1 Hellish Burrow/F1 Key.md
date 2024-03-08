@@ -19,3 +19,4 @@ Orc armoury.
 
 # 8
 Secret room where the [[Orcs]] are searching for a hidden passage towards E1.
+Hidden passage found.
