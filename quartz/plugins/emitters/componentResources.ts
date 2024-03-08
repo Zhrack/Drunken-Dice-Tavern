@@ -131,7 +131,8 @@ function addGlobalPageResources(
       const goatcounterScript = document.createElement("script")
       goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}"
       goatcounterScript.async = true
-      goatcounterScript.setAttribute("data-goatcounter", "${cfg.analytics.websiteId}")
+      goatcounterScript.setAttribute("data-goatcounter",
+        "https://${cfg.analytics.websiteId}.${cfg.analytics.host ?? "goatcounter.com"}/count")
       document.head.appendChild(goatcounterScript)
     `)
   }
